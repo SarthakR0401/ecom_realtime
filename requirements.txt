@@ -1,5 +1,6 @@
-confluent-kafka==2.2.0
-pymongo==4.5.0
-faker==18.4.0
-flask==2.3.2
-pytz==2024.2    
+dash
+plotly
+pandas
+pymongo
+gunicorn
+flask
